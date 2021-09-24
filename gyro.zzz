@@ -1,0 +1,8 @@
+pkgs:
+  fmt:
+    version: 0.0.0
+    root: fmt.zig
+    files:
+      LICENSE.rst
+      include/fmt/*.h
+      src/*.cc
